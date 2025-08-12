@@ -4,7 +4,7 @@
     "ident": "Mining_Mod",
     "name": "Mining Mod",
     "authors": [ "DangerNoodle" ],
-    "description": "Adds mineral veins randomly found underground, to obtain various natural resources.",
+    "description": "Adds ore veins deeper underground, and variant pickaxe recipes.  Near-surface veins are now part of vanilla BN.",
     "category": "misc_additions",
     "dependencies": [ "bn" ]
   }

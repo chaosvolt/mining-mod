@@ -5,11 +5,6 @@
     "items": [ [ "pickaxe_copper", 1 ] ]
   },
   {
-    "id": "mine_storage",
-    "type": "item_group",
-    "items": [ [ "chunk_galena", 2 ] ]
-  },
-  {
     "id": "museum_primitive",
     "type": "item_group",
     "items": [ [ "pickaxe_bone", 10 ], [ "pickaxe_copper", 5 ] ]
