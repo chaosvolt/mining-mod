@@ -11,7 +11,6 @@
     "book_learn": [ [ "textbook_carpentry", 4 ], [ "textbook_fabrication", 5 ] ],
     "using": [ [ "forging_standard", 2 ] ],
     "qualities": [ { "id": "HAMMER", "level": 2 }, { "id": "ANVIL", "level": 1 } ],
-    "tools": [ [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ] ],
     "components": [ [ [ "2x4", 2 ], [ "stick", 4 ] ], [ [ "scrap_copper", 5 ], [ "copper", 500 ] ] ]
   },
   {
